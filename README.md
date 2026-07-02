@@ -1,4 +1,5 @@
-# Backend Intern Assignment — Task Manager API
+# Enterprise-grade Task Management Backend with JWT Authentication & Role-Based Access Control
+
 
 A REST API with JWT authentication, role-based access control (user/admin),
 and full CRUD on a `tasks` entity — plus a small React frontend to exercise it.
